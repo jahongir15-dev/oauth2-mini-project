@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringBootOauth2LoginApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-oauth2-login" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="app.portfolio.spring_boot_oauth2_login.SpringBootOauth2LoginApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+</project>
